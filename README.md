@@ -10,6 +10,8 @@ Three beginner demos. You describe what you want in plain English, the AI (via G
 
 **You need:** a free Groq API key from https://console.groq.com/keys
 
+**Live app:** https://mt1-triage-desk.streamlit.app
+
 **Run the app on your laptop:**
 ```
 pip install -r requirements.txt
